@@ -1,1 +1,1 @@
-        1 file(s) copied.
+Panel Widget sampe RedApp
