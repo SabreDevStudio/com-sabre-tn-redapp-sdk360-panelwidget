@@ -1,0 +1,10 @@
+{
+  "moduleNameMapper": {
+    "^(panelwidget-webmod/Context)$": "meta\\ngv-jest\\1\\Context.js",
+    "^(panelwidget-webmod)$": "meta\\ngv-jest\\2\\index.js",
+    "^(panelwidget-webmod/index)$": "meta\\ngv-jest\\1\\index.js",
+    "^(panelwidget-webmod/Main)$": "meta\\ngv-jest\\1\\Main.js",
+    "^(panelwidget-webmod/views/PanelTile)$": "meta\\ngv-jest\\2\\PanelTile.js",
+    "^(panelwidget-webmod/views/TileModal)$": "meta\\ngv-jest\\2\\TileModal.js"
+  }
+}

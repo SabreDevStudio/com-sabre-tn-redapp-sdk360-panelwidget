@@ -1,0 +1,18 @@
+{
+  "name": "panelwidget-webmod",
+  "version": "4.8.6",
+  "meta": {},
+  "dependencies": [
+    "sabre-ngv-app",
+    "sabre-ngv-core"
+  ],
+  "submodules": [
+    "panelwidget-webmod/Context",
+    "panelwidget-webmod/index",
+    "panelwidget-webmod/Main",
+    "panelwidget-webmod/views/PanelTile",
+    "panelwidget-webmod/views/TileModal"
+  ],
+  "hasTemplates": true,
+  "hasStyles": true
+}

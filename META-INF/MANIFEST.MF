@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Panel Widget
+Bundle-SymbolicName: com.sabre.tn.redapp.sdk360.PanelWidget;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.sabre.tn.redapp.sdk360.panelwidget.Activator
+Bundle-Vendor: SABRE
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ com.sabre.edge.platform.core.common,
+ com.sabre.edge.platform.optional.webkit,
+ com.sabre.edge.redapp.contactdetails
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy

@@ -1,0 +1,29 @@
+{
+  "name": "panelwidget-webmod",
+  "version": "1.0.0",
+  "description": "NGV module",
+  "author": {
+    "name": "Sabre Dev",
+    "email": "",
+    "url": ""
+  },
+  "contributors": [],
+  "private": false,
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "ngv": {
+    "buildDependencies": {
+      "sabre-ngv-app": "*",
+      "sabre-ngv-core": "*"
+    },
+    "concierge_version_min": "4.8.6",
+    "buildInfo": {
+      "concierge_version": "4.8.6",
+      "date": "2019-05-07T13:25:04.475Z",
+      "ts": 1557235504475,
+      "rebuildHash": "085983c7e65ebe5fd7bdd171933a0e67"
+    }
+  }
+}

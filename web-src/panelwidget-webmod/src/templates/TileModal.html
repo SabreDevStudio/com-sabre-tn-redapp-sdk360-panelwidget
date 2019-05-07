@@ -1,0 +1,25 @@
+<table width="100%">
+<tr>
+    <td colspan="2">Drag the slider to select amount of points to redeem</td>
+</tr>
+<tr>
+    <td>
+        <table>
+            <tr><td>Price</td><td>Points</td></tr>
+            <tr><td colspan="2">            
+                    <div class="panelwidget_webmod.slidecontainer">
+                    <input type="range" min="1" max="100" value="{{pctSelected}}" class="slider" id="myRange">
+                    </div>
+            </td></tr>
+            <tr><td>{{priceUSD}}</td><td>{{pricePOINTS}}</td></tr>
+        </table>
+    </td>
+    <td>
+            <p>Details</p>
+            <p><span>Price USD</span><span>{{priceUSD}}</span></p>
+            <p><span>Points</span><span>{{pricePOINTS}}</span></p>
+            <p><span>Fees</span><span>val</span></p>
+            <p><span>Total USD</span><span>{{priceUSD}}</span></p>
+    </td>
+</tr>
+</table>

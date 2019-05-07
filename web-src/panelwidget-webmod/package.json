@@ -1,0 +1,23 @@
+{
+  "name": "panelwidget-webmod-src",
+  "version": "1.0.0",
+  "description": "NGV module",
+  "author": {
+    "name": "Sabre Dev",
+    "email": "",
+    "url": ""
+  },
+  "contributors": [],
+  "private": true,
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "ngv": {
+    "buildDependencies": {
+      "sabre-ngv-app": "*",
+      "sabre-ngv-core": "*"
+    },
+    "concierge_version_min": "4.8.6"
+  }
+}
